@@ -1,0 +1,11 @@
+C:\Users\egorm\source\repos\SecondTest\HardProcent\bin\Debug\net8.0\HardProcent.deps.json
+C:\Users\egorm\source\repos\SecondTest\HardProcent\bin\Debug\net8.0\HardProcent.dll
+C:\Users\egorm\source\repos\SecondTest\HardProcent\bin\Debug\net8.0\HardProcent.pdb
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.AssemblyInfoInputs.cache
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.AssemblyInfo.cs
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.csproj.CoreCompileInputs.cache
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.dll
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\refint\HardProcent.dll
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\HardProcent.pdb
+C:\Users\egorm\source\repos\SecondTest\HardProcent\obj\Debug\net8.0\ref\HardProcent.dll
